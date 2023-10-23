@@ -1,0 +1,1 @@
+readme for basics_0 of network
