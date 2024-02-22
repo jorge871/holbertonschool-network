@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env bash
 # Ping a ID address passed as an argument
 if ["$#" -lt 1]; then
     echo "Usage: $(basename "$0") <id_address>"
